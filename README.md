@@ -1,0 +1,2 @@
+# laravel-learning-simple
+Laravel速成简易教程，旨在让对MVC框架浸淫多年的开发者迅速掌握laravel在本公司的应用，包括API和后台快速搭建
